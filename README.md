@@ -33,8 +33,7 @@
    ![image](https://github.com/vioas/Host-Protection/assets/142601752/b33fb253-319a-452c-b476-c91509f3f9be)
    ![image](https://github.com/vioas/Host-Protection/assets/142601752/d223cbb9-fe19-4d7b-9d4a-beb385f9436b)
    ![image](https://github.com/vioas/Host-Protection/assets/142601752/9e70cbb5-3db6-4c47-a337-a95b14beb57f)
-
-
+   ![image](https://github.com/vioas/Host-Protection/assets/142601752/5054e785-c173-49c0-a767-7c5008628fc7)
 
 
 ### Дополнительные задания (со звёздочкой*)
