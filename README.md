@@ -20,7 +20,7 @@
 
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
 
-     ![image](https://github.com/vioas/Host-Protection/assets/142601752/76384e8e-11b6-42bb-9a6b-e1f966aa4dd1)
+    ![image](https://github.com/vioas/Host-Protection/assets/142601752/76384e8e-11b6-42bb-9a6b-e1f966aa4dd1)
 
 
 ### Задание 2
