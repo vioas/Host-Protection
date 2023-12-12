@@ -31,6 +31,8 @@
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
 
    ![image](https://github.com/vioas/Host-Protection/assets/142601752/b33fb253-319a-452c-b476-c91509f3f9be)
+   ![image](https://github.com/vioas/Host-Protection/assets/142601752/d223cbb9-fe19-4d7b-9d4a-beb385f9436b)
+
 
 
 ### Дополнительные задания (со звёздочкой*)
